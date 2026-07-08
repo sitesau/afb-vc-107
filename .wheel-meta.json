@@ -1,0 +1,22 @@
+{
+  "wheel_id": 89,
+  "slug": "afb-vc-107",
+  "project": "adelaide-finance-broker-first-home-av-107",
+  "parent_t1_ref": "afb-vc-001",
+  "node_role": "feeder",
+  "money_target": "adelaidefinancebroker.com.au",
+  "primary_kw": "adelaide finance broker first home",
+  "intended_url": "https://adelaide-finance-broker-first-home-av-107.onrender.com/",
+  "links": [
+    {
+      "target_url": "https://adelaide-finance-broker-av-150.onrender.com/",
+      "anchor": "adelaide finance broker",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://adelaide-finance-broker-av-150.onrender.com/",
+      "anchor": "adelaide finance broker",
+      "rel": "follow"
+    }
+  ]
+}
