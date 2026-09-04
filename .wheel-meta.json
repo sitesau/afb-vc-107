@@ -1,21 +1,23 @@
 {
   "wheel_id": 89,
+  "structure": "wheel",
   "slug": "afb-vc-107",
-  "project": "adelaide-finance-broker-first-home-av-107",
-  "parent_t1_ref": "afb-vc-001",
+  "project": "adelaide-finance-broker-first-home-f2d8c1671267d902203744174dbf",
+  "parent_t1_ref": "afb-vc-151",
   "node_role": "feeder",
   "money_target": "adelaidefinancebroker.com.au",
   "primary_kw": "adelaide finance broker first home",
-  "intended_url": "https://adelaide-finance-broker-first-home-av-107.onrender.com/",
+  "intended_url": "https://sitesau.github.io/afb-vc-107/",
+  "writeback_nonce": "6d3d161c164f83ab",
   "links": [
     {
-      "target_url": "https://adelaide-finance-broker-av-150.onrender.com/",
+      "target_url": "https://sitesau.github.io/afb-vc-151/",
       "anchor": "adelaide finance broker",
       "rel": "follow"
     },
     {
-      "target_url": "https://adelaide-finance-broker-av-150.onrender.com/",
-      "anchor": "adelaide finance broker",
+      "target_url": "https://sitesau.github.io/afb-vc-108/",
+      "anchor": "adelaide finance broker guide",
       "rel": "follow"
     }
   ]
